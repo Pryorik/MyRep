@@ -1,7 +1,0 @@
-
-Hello world;
-one two free;
-dobavil;
-izmenenia f;
-izm2;
-
