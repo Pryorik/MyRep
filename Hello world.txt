@@ -1,5 +1,7 @@
-Hello world
-one two free
-dobavil
-izmenenia f
-izm2
+
+Hello world;
+one two free;
+dobavil;
+izmenenia f;
+izm2;
+
